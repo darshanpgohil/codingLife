@@ -20,9 +20,6 @@ class TEST : public MATCHS
 
 			cout<<"\n Enter The No Of Matchs Played : ";
 			cin>>n_matchs;
-			
-			cout<<"\n Enter The No Of Matchs Played : ";
-			cin>>n_matchs;
 
 			cout<<"\n Enter The Runs : ";
 			cin>>runs;
